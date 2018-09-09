@@ -4,4 +4,16 @@ title: Tools
 permalink: /tools/
 ---
 
-Tool Collection
+<h1>Tool Collection</h1>
+
+<h2>Recording Stuff</h2>
+
+kxStudio provides a lot of nice tools to easily configure sound in Linux. On the <a href="https://kxstudio.linuxaudio.org">webpage</a> repositories are including tools for jack and many vst plugins.
+
+Ardour <a href="https://ardour.org">link</a>
+
+<h2>Hardware</h2>
+
+<h2>Creative Stuff</h2>
+
+MuseScore
